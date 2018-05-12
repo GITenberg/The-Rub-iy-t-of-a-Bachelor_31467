@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '34715'
     url: http://www.gutenberg.org/2009/agents/34715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31467#The-Rub-iy-t-of-a-Bachelor
 gutenberg_issued: '2010-03-02'
 gutenberg_type: Text
 identifiers:
