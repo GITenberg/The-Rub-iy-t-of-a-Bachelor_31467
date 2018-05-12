@@ -1,0 +1,35 @@
+_repo: The-Rub-iy-t-of-a-Bachelor_31467
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Speakman, Harold
+    birthdate: 1888
+    deathdate: 1928
+    gutenberg_agent_id: '35259'
+    url: http://www.gutenberg.org/2009/agents/35259
+covers:
+- cover_type: archival
+  image_path: 31467-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rowland, Helen
+    birthdate: 1876
+    gutenberg_agent_id: '34715'
+    url: http://www.gutenberg.org/2009/agents/34715
+description: ''
+gutenberg_issued: '2010-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31467'
+  lccn: '16004255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry'
+- !lcsh 'Bachelors -- Poetry'
+- !lcc 'PS'
+- !lcsh 'Omar Khayyam -- Parodies, imitations, etc.'
+title: The Rubáiyát of a Bachelor
+url: http://www.gutenberg.org/ebooks/31467
